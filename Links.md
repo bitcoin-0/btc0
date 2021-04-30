@@ -6,3 +6,5 @@ https://layerci.com/blog/crypto-miners-are-killing-free-ci/amp/
 
 Effects on consumers using bitcoin
 https://www.currentaffairs.org/2021/04/why-cryptocurrency-is-a-giant-fraud
+
+https://www.stephendiehl.com/blog/banbitcoin.html
