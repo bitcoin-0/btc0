@@ -35,3 +35,22 @@ The legal area is probably not one which we will be able to engage in easilly. H
 ### 4. Community
 
 The final strand of attack is an intersting one, the idea is to form a critical enough mass of people to both force political action and to create a significant **threat** of impending action. Bitcoin derives it's $50000 price tag solely from the assumption that it will be possible to sell it for $60000 next month. If a significant enough threat of action shakes the confidence in the currency, that assumption disappears and will send the price plummeting. This in and of itself might be enough to finish Bitcoin, the worst offender and should deal signficiant damage to other coins. 
+
+## Naming
+
+The project has been named bitcoinq or btcq as when companies listed on stock exchanges go bust, it is customary to add a q to the end of their stock ticker. 
+While it is the aim of this project to make bitcoin's value drop to 0 I'm concerned that this might be lost on a lot of people, worse yet they may erroneously
+assume it has something to do with the Q conspiracy theory which is very much not the case. As such while I'm not actively seeking new names for the project I
+am very open to new name suggestions and willing to rename everything prior to any media launch of our campaign
+
+## Maintainers
+
+If this project grows to the size I'm hoping it will I will be seeking additional maintainers, especially those who speak other languages. Initially I will be 
+restricting these positions to people I've met in person or have specfically invited to the project, but I'll be looking for ways to open this up in the future.
+
+## Policies
+
+If you want to improve upon any of the content in this repository open a PR; other contributors can then provide feedback on your proposals and we can form a 
+consensus on new wording and additions. Until there are a few regular contributors able to review and feedback on proposals I will be committing directly to 
+main for speed purposes in estabilishing the base from which we can work; this doesn't mean this work isn't up for review; if you want to suggest changes open a PR to discuss. Once a few regular contributors have established themselves and we have the basics of the content established, I will move to using the PR process
+as well. *To stress: this is only about improving my speed while I'm the main/only contributor and is not intended to prevent discussion on items*
