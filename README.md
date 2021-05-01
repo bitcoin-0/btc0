@@ -54,3 +54,5 @@ If you want to improve upon any of the content in this repository open a PR; oth
 consensus on new wording and additions. Until there are a few regular contributors able to review and feedback on proposals I will be committing directly to 
 main for speed purposes in estabilishing the base from which we can work; this doesn't mean this work isn't up for review; if you want to suggest changes open a PR to discuss. Once a few regular contributors have established themselves and we have the basics of the content established, I will move to using the PR process
 as well. *To stress: this is only about improving my speed while I'm the main/only contributor and is not intended to prevent discussion on items*
+
+Please open separate PR's per item so they can be discussed and merged separately. 
