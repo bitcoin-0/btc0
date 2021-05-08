@@ -1,4 +1,4 @@
-# btcq
+# Bitcoin Zero
 
 The aim of this repository is to collabarate on bringing about the end of proof of work style crypto currencies such as Bitcoin and perhaps crypto currencies in general.
 
@@ -35,13 +35,6 @@ The legal area is probably not one which we will be able to engage in easilly. H
 ### 4. Community
 
 The final strand of attack is an intersting one, the idea is to form a critical enough mass of people to both force political action and to create a significant **threat** of impending action. Bitcoin derives it's $50000 price tag solely from the assumption that it will be possible to sell it for $60000 next month. If a significant enough threat of action shakes the confidence in the currency, that assumption disappears and will send the price plummeting. This in and of itself might be enough to finish Bitcoin, the worst offender and should deal signficiant damage to other coins. 
-
-## Naming
-
-The project has been named bitcoinq or btcq as when companies listed on stock exchanges go bust, it is customary to add a q to the end of their stock ticker. 
-While it is the aim of this project to make bitcoin's value drop to 0 I'm concerned that this might be lost on a lot of people, worse yet they may erroneously
-assume it has something to do with the Q conspiracy theory which is very much not the case. As such while I'm not actively seeking new names for the project I
-am very open to new name suggestions and willing to rename everything prior to any media launch of our campaign
 
 ## Maintainers
 
