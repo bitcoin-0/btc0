@@ -1,1 +1,1 @@
-// A paragraph to open the letter before moving onto the what is bitcoin section
+I am writing to you as a constituent of <AREA> to express my concern over the impact that the rise of digital cryptocurrencies such as Bitcoin is having on the environment <AND List other impacts included>. <Add sentence with some personal details, such as your line of work and how you developed an interest in this issue>. <If they are a party you support you could also add a sentence indicating this, especially if you helped in their campaign>
