@@ -10,3 +10,9 @@
 3. Exposure of companies esp finacial ones to a crash if growth continues the way its going
 // Could trigger next finacial crisis
 
+4. No consumer protections (eg against fraud)
+// Two directions here, the first against rogue merchants - not easy to get money back if something goes wrong
+// Second against crimnal fraud - banks currently have the ability to reverse some transactions - this isn't possible with cryptocurrencies
+
+5. Potential to loose currency if the password is lost
+// This is a really huge downside
