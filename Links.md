@@ -8,3 +8,6 @@ Effects on consumers using bitcoin
 https://www.currentaffairs.org/2021/04/why-cryptocurrency-is-a-giant-fraud
 
 https://www.stephendiehl.com/blog/banbitcoin.html
+
+On the fundamental uselessness of blockchain
+https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100
