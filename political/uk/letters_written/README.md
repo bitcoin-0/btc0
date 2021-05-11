@@ -1,4 +1,4 @@
-A steady drip of personalised letters will have more effect than a mass surge of a generic template, this is why this repo has created snippets on certain areas 
+A steady drip of personalised letters will have more effect than a mass surge of a generic template, this is why this repo has created snippets on talking points 
 instead of a single template letter. 
 
 Keeping track of which representitives have been contacted allows others to build on the points you've already made instead of repeating them. 
