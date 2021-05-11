@@ -4,7 +4,7 @@ Things to do
 
 - Do we want dedicated accounts or just use personal?
 - Need to build up resources to use in social media discussions
-- Repository of content which can be tweeted out (eg infographics)
+- Repository of content which can be tweeted (e.g., infographics)
 
 ## Outreach
 
@@ -17,12 +17,11 @@ and what can be done about them as I've barely seen anything from the key figure
 ## Website
 
 - Could just drop up a github.io page for now, if anyone wants to take point on this I can provide support
-- probably a good idea to get a real site at some point, but we can move from github fairly easilly (Might be able to get free hosting/support from a company affected
-by miners)
+- Probably a good idea to get a real website at some point, but we can move from github fairly easily (Might be able to get free hosting/support from a company affected by miners)
 
 ## Company support
 
-- Can we get some CI/Free hosting provides on board who are getting harmed by crypto mining?
+- Can we get some CI/Free hosting providers on board who are getting harmed by crypto mining?
 
 ## Media
 

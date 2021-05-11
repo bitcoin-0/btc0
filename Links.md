@@ -8,3 +8,5 @@ Effects on consumers using bitcoin
 https://www.currentaffairs.org/2021/04/why-cryptocurrency-is-a-giant-fraud
 
 https://www.stephendiehl.com/blog/banbitcoin.html
+
+https://www.cynicusrex.com/file/cryptocultscience.html
