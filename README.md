@@ -34,7 +34,7 @@ The legal area is probably not one which we will be able to engage in easily. Ho
 
 ### 4. Community
 
-The final strand of attack is an interrsting one: The idea is to form a critical  mass of people to both force political action and to create a significant **threat** of impending action. Bitcoin derives its $50,000 price tag solely from the assumption that it will be possible to sell it for $60,000 next month. If a significant enough threat of action shakes the confidence in the currency, that assumption disappears and this will send the price plummeting. This, in and of itself, might be enough to finish Bitcoin, the worst offender, and should deal signficiant damage to other coins. 
+The final strand of attack is an interesting one: The idea is to form a critical  mass of people to both force political action and to create a significant **threat** of impending action. Bitcoin derives its $50,000 price tag solely from the assumption that it will be possible to sell it for $60,000 next month. If a significant enough threat of action shakes the confidence in the currency, that assumption disappears and this will send the price plummeting. This, in and of itself, might be enough to finish Bitcoin, the worst offender, and should deal signficiant damage to other coins. 
 
 ## Maintainers
 
