@@ -14,7 +14,7 @@ Bitcoin is fairly well entrenched and will be difficult to shift without a signi
 
 The easiest way to kill Bitcoin and other proof of work coins is to cut them off from the global banking network. Without the ability to sell coins for real currencies, they will rapidly devalue and miners will be forced to cease operation for economic reasons alone. 
 
-Other options with push the price down will have an impact - the lower the value of a Bitcoin, the less energy will be expended on mining reducing the ecological impact, so every little helps, and any option can be persued in the short term to minimise the damage until a full ban is achieved.
+Other options to push the price down will have an impact - the lower the value of a Bitcoin, the less energy will be expended on mining reducing the ecological impact, so every little helps, and any option can be persued in the short term to minimise the damage until a full ban is achieved.
 
 There are four main strands of attack:
 
