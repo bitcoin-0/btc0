@@ -23,7 +23,7 @@ call_to_action.md
 
 Probably use Labour/Green template unless you think the conservative template would fit a specific MP better
 
-### Northen Ireland parties
+### Northern Ireland parties
 
 I'm insufficiently aware of NI politics to make suggestions here, hopefully someone from NI can make some. 
 
@@ -32,7 +32,7 @@ for Sinn Féin the call to action will need reworking slightly as they do not ta
 ## Further work
 
 - Produce a set of snippets to use for any rebuttals if MPs come back with crypto talking points like Blockchain being an innovative technology (it's not) 
-or that Bitcoin is driving renewable energy takeup (even if it did, we'd be better using that energy for literally anythign else)
+or that Bitcoin is driving renewable energy takeup (even if it did, we'd be better using that energy for literally anything else)
 - Produce a set of snippets to add to replies for MPs who want more information on one or more topics
 - A mechanism to track which MPs have been contacted and any replies from them
 - Tips/pointers for in person meetings 
