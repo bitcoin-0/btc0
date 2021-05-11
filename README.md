@@ -1,6 +1,6 @@
 # Bitcoin Zero
 
-The aim of this repository is to collabarate on bringing about the end of proof of work style crypto currencies such as Bitcoin and perhaps crypto currencies in general.
+The aim of this repository is to collaborate on bringing about the end of proof of work style crypto currencies such as Bitcoin and perhaps crypto currencies in general.
 
 ## Why
 
@@ -10,7 +10,7 @@ A wider issue with crypto currencies is that they, for all intents and purposes,
 
 ## How
 
-Bitcoin is fairly well entrenched and will be difficult to shift without a significant movement; the main purpose of this repository is to collabarate on campaigning to raise awareness of the issue (too many outside tech do not know how bitcoin functions and why it needs to be stopped) and to build up a political movement with the capability of taking action against crypto currencies. 
+Bitcoin is fairly well entrenched and will be difficult to shift without a significant movement; the main purpose of this repository is to collaborate on campaigning to raise awareness of the issue (too many outside tech do not know how bitcoin functions and why it needs to be stopped) and to build up a political movement with the capability of taking action against crypto currencies. 
 
 The easiest way to kill Bitcoin and other proof of work coins is to cut them off from the global banking network. Without the ability to sell coins for real currencies, they will rapidly devalue and miners will be forced to cease operation for economic reasons alone. 
 
@@ -26,7 +26,7 @@ We do not advocate mounting technical attacks on the network: Many of them would
 
 ### 2. Political
 
-This should form the main focus of our campaigning: In the early stages it will mainly consist of recruiting allies in political posistions, especially green politicians and environmental campaigners. We will also work on producing some information for people who wish to contact their representitives to raise the issue with them. **Producing easy to understand explainers of the main issues with proof of work crypto currencies which can be turned into template letters and translated into other languages is the best way for you to contribute right now**
+This should form the main focus of our campaigning: In the early stages it will mainly consist of recruiting allies in political positions, especially green politicians and environmental campaigners. We will also work on producing some information for people who wish to contact their representitives to raise the issue with them. **Producing easy to understand explainers of the main issues with proof of work crypto currencies which can be turned into template letters and translated into other languages is the best way for you to contribute right now**
 
 ### 3. Legal
 
