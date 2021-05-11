@@ -27,11 +27,11 @@ The following behaviors are expected and requested of all community members:
  * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
  * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
-## 3a. Adendum
+## 3a. Addendum
 
 This community exists to collabarate to bringing an end to the damage caused by crypto currencies, especially proof of work coins. 
 To that end, we expect that participants will not contribute to these harms by investing in crypto currencies or trying to get a personal financial advantage from
-our work, for example by taking a short posistion against Bitcoin. 
+our work, for example by taking a short position against Bitcoin. 
 
 If you already own a holding in a crypto currency, we encourage you to divest from it and opt to invest in more environmentally friendly assets.
 
