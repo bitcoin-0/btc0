@@ -43,7 +43,7 @@ impact these attacks will have on national security and our ability to protect
 public infrastructure and safeguard our country against attack.
 
 The vast downsides of this technology vastly outweigh any potential upside and
-many citizens in both my profession and our consistency believe that this these
+many citizens in both my profession and our constituency believe that this these
 problems can only be solved with strong regulation.
 
 New laws and regulation are needed are needed reign in these financial products
