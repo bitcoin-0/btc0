@@ -17,7 +17,7 @@ and lacking regulation they have turned into predatory financial investments
 that disproportionately victimize the most financially vulnerable in our
 society.
 
-Unlike an investment into a public companies, bitcoin and other crypto assets
+Unlike an investment into a public company, bitcoin and other crypto assets
 have no mechanism of producing economic value, the only reason Bitcoin is worth
 anything is based on the collective belief that it will be worth more in the
 future.  This is clearly an unsustainable belief, however people are being
