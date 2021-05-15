@@ -13,3 +13,6 @@ https://www.cynicusrex.com/file/cryptocultscience.html
 
 On the fundamental uselessness of blockchain
 https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100
+
+Known weaknesses
+https://en.bitcoin.it/wiki/Weaknesses
