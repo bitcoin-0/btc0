@@ -14,5 +14,5 @@
 // Two directions here, the first against rogue merchants - not easy to get money back if something goes wrong
 // Second against criminal fraud - banks currently have the ability to reverse some transactions - this isn't possible with cryptocurrencies
 
-5. Potential to loose currency if the password is lost
+5. Potential to lose currency if the password is lost
 // This is a really huge downside
