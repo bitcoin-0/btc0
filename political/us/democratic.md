@@ -17,10 +17,10 @@ and lacking any serious potential they have turned into predatory financial
 investments that disproportionately victimize the most financially vulnerable in
 our society.
 
-Unlike an investment into a public companies, Bitcoin and other crypto assets
-have no mechanism of producing economic value, the only reason Bitcoin is worth
+Unlike an investment into public companies, Bitcoin and other crypto assets
+have no mechanism of producing economic value. The only reason Bitcoin is worth
 anything is based on the collective belief that it will be worth more in the
-future.  This is clearly an unsustainable belief, however people are being
+future. This is clearly an unsustainable belief. However, people are being
 deceived by widespread misinformation campaigns into "investing" large sums of
 money into cryptocurrencies on the back of get rich quick promises. Those who
 are fortunate enough to make substantial returns from cryptocurrencies are doing
@@ -32,7 +32,7 @@ widespread financial scam.
 In addition to being a predatory investment scheme, cryptocurrency networks
 consume vast amounts of electricity tied to an enormous carbon footprint. The
 consumption of these networks globally is equivalent to that of large European
-countries like Ireland and this networks provides no utility for this waste,
+countries like Ireland and this network provides no utility for this waste,
 other than to enrich a few insiders through financial scams.
 
 Finally, cryptocurrency is also used to facilitate the growing threat of
@@ -43,10 +43,10 @@ impact these attacks will have on national security and our ability to protect
 public infrastructure and safeguard our country against attack.
 
 The vast downsides of this technology vastly outweigh any potential upside and
-many citizens in both my profession and our constituency believe that this these
+many citizens in both my profession and our constituency believe that these
 problems can only be solved with strong regulation.
 
-New laws and regulation are needed are needed reign in these financial products
+New laws and regulation are needed reign in these financial products
 so that there are adequate investor protection and that those that are predatory
 frauds or environmentally destructive can be legislated away through the
 democratic process to protect citizens.
