@@ -16,3 +16,6 @@ https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-block
 
 Known weaknesses
 https://en.bitcoin.it/wiki/Weaknesses
+
+Bitcoin research problems
+https://bitcoinproblems.org/
