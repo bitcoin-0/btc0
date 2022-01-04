@@ -38,7 +38,7 @@ safeguard our country against attack.
 
 The vast downsides of this technology vastly outweigh any potential upside and
 many citizens, in both my profession and our constituency, believe that this
-these problems can only be solved with with adequate controls to safeguard our
+these problems can only be solved with adequate controls to safeguard our
 markets and national infrastructure.
 
 I believe that new investor safeguards are needed are needed rein in these
