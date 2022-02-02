@@ -54,7 +54,7 @@ Democrat
   - https://www.kaine.senate.gov/contact/share-your-opinion
 
 - Joint Economic Committee Co-Chair Don Beyer
-  - Represenative (D-VA)
+  - Represenative (D-VA 8th District)
   - Need zip code to fill in form. 22043 is a zipcode inside his district
   - https://beyer.house.gov/forms/writeyourrep/?zip5=22043&zip4=
 
