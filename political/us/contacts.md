@@ -45,6 +45,19 @@ Democrat
   - Senator (D-MD)
   - https://www.cardin.senate.gov/contact
 
+- Senator Mark Warner
+  - Senator (D-VA)
+  - https://www.warner.senate.gov/public/index.cfm?p=ContactPage
+
+- Senator Tim Kaine
+  - Senator (D-VA)
+  - https://www.kaine.senate.gov/contact/share-your-opinion
+
+- Joint Economic Committee Co-Chair Don Beyer
+  - Represenative (D-VA)
+  - Need zip code to fill in form. 22043 is a zipcode inside his district
+  - https://beyer.house.gov/forms/writeyourrep/?zip5=22043&zip4=
+
 Republican
 ----------
 
@@ -63,6 +76,10 @@ Republican
 * Representative Andrew Garbarino
   - Representative (R-NY 2nd District)
   - https://garbarino.house.gov/contact
+
+- Ranking Member of Joint Economic Committee Mike Lee
+  - Senator (R-UT)
+  - https://www.lee.senate.gov/contact 
 
 Federal Government
 ------------------
