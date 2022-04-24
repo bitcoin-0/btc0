@@ -4,13 +4,15 @@ The aim of this repository is to collaborate on bringing about the end of proof 
 
 ## Why
 
-The biggest issue with proof of work (and soon proof of space) crypto currencies is the huge environmental impact they have both on power consumption to mine coins and on resource consumption to build miners. We are in the midst of a climate emergency and cannot afford to run a system which consumes ~.5% of the world's energy, when much more efficient alternatives exist.
+The biggest issue with Proof-of-Work and Proof-of-Space cryptocurrencies, such as Bitcoin and Chia respectively, is the huge environmental impact they have, due to both power consumption required to mine coins and the resource consumption needed to build miners. We are in the midst of a climate catastrophe and cannot afford to run a system which consumes ~.5% of the world's energy, when much more efficient alternatives exist. 
 
-A wider issue with crypto currencies is that they, for all intents and purposes, act like a Ponzi scheme; the "investment" from newer investors is used to pay out the profits of the early adoptors. This is not a sustainable model and will result in an eventual collapse. When this happens, a lot of people are going to wind up having lost their life savings simply by making an "investment". From a social perspective, this is awful, but even from a pragmatic perspective the exposure that the international banking system may have to bitcoin if it continues to grow at the rate it is doing could be sufficient to trigger a new financial crisis when it all comes crashing down.
+ "Those who don't build must burn. It's as old as history and juvenile delinquents.“ —  Ray Bradbury
+
+A wider issue with cryptocurrencies is that they, for all intents and purposes, act like a Ponzi scheme: the "investment" from newer investors is used to pay out the profits of the early adoptors. This is not a sustainable model and will result in an eventual collapse. When this happens, a lot of people are going to wind up having lost their life savings simply by making an "investment". From a social perspective, this is awful, but from a pragmatic perspective the exposure that the international banking system may have to bitcoin if it continues to grow at the rate it is doing could be sufficient to trigger a new financial crisis when it all comes crashing down.
 
 ## How
 
-Bitcoin is fairly well entrenched and will be difficult to shift without a significant movement; the main purpose of this repository is to collaborate on campaigning to raise awareness of the issue (too many outside tech do not know how bitcoin functions and why it needs to be stopped) and to build up a political movement with the capability of taking action against crypto currencies. 
+Bitcoin is well entrenched and will be difficult to shift without a significant movement; the main purpose of this repository is to collaborate on campaigning to raise awareness of the issue (too many outside tech do not know how bitcoin functions and why it needs to be stopped) and to build up a political movement with the capability of taking action against crypto currencies. 
 
 The easiest way to kill Bitcoin and other proof of work coins is to cut them off from the global banking network. Without the ability to sell coins for real currencies, they will rapidly devalue and miners will be forced to cease operation for economic reasons alone. 
 
